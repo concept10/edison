@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/concept10/edison/issues"
   },
-  "homepage": "https://github.com/concept10/edison#readme"
+  "homepage": "https://github.com/concept10/edison#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  }
 }
